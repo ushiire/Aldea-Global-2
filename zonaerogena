@@ -1,0 +1,12 @@
+zona-erogena/
+│
+├── index.html                   (Página principal: Zona Erógena Exportación)
+├── acuerdos.html                (Compromisos, consecuencias, cronograma, test de entrada)
+├── estilos.css                  (Archivo con los estilos generales)
+└── /img                         (Carpeta de imágenes)
+     ├── test-leidy.jpg
+     ├── test-diana.jpg
+     ├── test-maria.jpg
+     ├── canvas.jpg
+     ├── diagnostico.jpg
+     └── resultado.jpg
